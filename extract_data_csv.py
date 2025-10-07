@@ -5,10 +5,10 @@ import os
 def extract_and_save_to_csv():
     try:
         connection = mysql.connector.connect(
-            host='sgddolp.com.br',
-            database='dolpenge_views',
-            user='dolpenge_dolpviews',
-            password='Why6RT0H}+#&uo]'
+            host='',
+            database='',
+            user='',
+            password=''
         )
 
         if connection.is_connected():
@@ -138,4 +138,5 @@ def extract_and_save_to_csv():
             print("Conexão ao MariaDB fechada.")
 
 if __name__ == "__main__":
+
     extract_and_save_to_csv()
