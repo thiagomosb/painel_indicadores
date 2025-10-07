@@ -1,9 +1,9 @@
 {
-    "arthur.mulser": [
+    "pessoa.01": [
         "pagina_admin"
     ],
-    "victor.felix": [],
-    "thiago.souza": [
+    "pessoa.02": [],
+    "pessoa.03": [
         "pagina_admin",
         "pagina13",
         "pagina12",
@@ -23,4 +23,5 @@
         "pagina19",
         "pagina30"
     ]
+
 }
