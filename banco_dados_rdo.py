@@ -6,10 +6,10 @@ def extract_turnos_eventos_fim_rdo():
     try:
         # Conexão com o banco
         connection = mysql.connector.connect(
-            host='sgddolp.com.br',
-            database='dolpenge_views',
-            user='dolpenge_dolpviews',
-            password='Why6RT0H}+#&uo]'
+            host='',
+            database='',
+            user='',
+            password=''
         )
 
         if connection.is_connected():
@@ -60,3 +60,4 @@ def extract_turnos_eventos_fim_rdo():
 
 if __name__ == "__main__":
     extract_turnos_eventos_fim_rdo()
+
