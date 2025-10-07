@@ -1,0 +1,142 @@
+{
+    "Regional Morrinhos - Supervis\u00e3o": {
+        "funcoes": [
+            "SUPERVISOR",
+            "SUPERVISOR DE BACKOFFICE",
+            "LIDER DE CAMPO",
+            "SUPERVISOR LINHA VIVA"
+        ],
+        "unidades": [
+            4,
+            5,
+            1,
+            2,
+            7
+        ],
+        "paginas": [
+            "pagina10",
+            "pagina8",
+            "pagina14"
+        ]
+    },
+    "Regional Rio Verde - Supervis\u00e3o ": {
+        "funcoes": [
+            "SUPERVISOR",
+            "SUPERVISOR LINHA VIVA",
+            "LIDER DE CAMPO",
+            "SUPERVISOR DE BACKOFFICE",
+            "ANALISTA OPERACIONAL"
+        ],
+        "unidades": [
+            9
+        ],
+        "paginas": [
+            "pagina11",
+            "pagina8",
+            "pagina15"
+        ]
+    },
+    "MONITORIA ": {
+        "funcoes": [
+            "AUXILIAR DE DADOS",
+            "ASSISTENTE DE DADOS",
+            "COORDENADOR DE DADOS"
+        ],
+        "unidades": [
+            7,
+            9,
+            4,
+            11,
+            10,
+            2,
+            8,
+            1,
+            5,
+            3
+        ],
+        "paginas": [
+            "pagina4",
+            "pagina8",
+            "pagina7",
+            "pagina1"
+        ]
+    },
+    "GERENTE": {
+        "funcoes": [
+            "GERENTE OPERACIONAL"
+        ],
+        "unidades": [
+            3
+        ],
+        "paginas": [
+            "pagina1",
+            "pagina2",
+            "pagina3",
+            "pagina4",
+            "pagina7",
+            "pagina8"
+        ]
+    },
+    "COORDENA\u00c7\u00c3O REGIONAL - MORRINHOS": {
+        "funcoes": [
+            "COORDENADOR STC",
+            "COORDENADOR OPERACIONAL",
+            "COORDENADOR DE ENCERRAMENTO E MEDI\u00c7\u00c3O"
+        ],
+        "unidades": [
+            7,
+            3,
+            5,
+            1,
+            2,
+            4
+        ],
+        "paginas": [
+            "pagina10",
+            "pagina2",
+            "pagina8",
+            "pagina14"
+        ]
+    },
+    "SESMT - REGIONAL MORRINHOS E RIO VERDE": {
+        "funcoes": [
+            "T\u00c9CNICO DE SEGURAN\u00c7A DO TRABALHO",
+            "COORDENADOR DE SEGURAN\u00c7A DO TRABALHO",
+            "COODERNADOR DE SEG DO TRABALHO",
+            "TECNICO DE SEGURAN\u00c7A DO TRABALHO",
+            "COORDENADOR DE SEGURANCA DO TRABALHO",
+            "ASSISTENTE DE SEGURAN\u00c7A DO TRABALHO"
+        ],
+        "unidades": [
+            5,
+            1,
+            2,
+            4,
+            9,
+            7,
+            3
+        ],
+        "paginas": [
+            "pagina8",
+            "pagina4",
+            "pagina14",
+            "pagina15"
+        ]
+    },
+    "COORDENA\u00c7\u00c3O REGIONAL - RIO VERDE": {
+        "funcoes": [
+            "COORDENADOR DE OBRAS",
+            "COORDENADOR OPERACIONAL",
+            "COORDENADOR DE ENCERRAMENTO E MEDI\u00c7\u00c3O",
+            "COORDENADOR STC"
+        ],
+        "unidades": [
+            9
+        ],
+        "paginas": [
+            "pagina15",
+            "pagina11",
+            "pagina8"
+        ]
+    }
+}
